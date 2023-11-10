@@ -11,6 +11,8 @@
 		27CA223D2AFDE1B0006E12E0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27CA223C2AFDE1B0006E12E0 /* ContentView.swift */; };
 		27CA223F2AFDE1B2006E12E0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 27CA223E2AFDE1B2006E12E0 /* Assets.xcassets */; };
 		27CA22422AFDE1B2006E12E0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 27CA22412AFDE1B2006E12E0 /* Preview Assets.xcassets */; };
+<<<<<<< HEAD
+=======
 		27CA22522AFDE52D006E12E0 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27CA22512AFDE52D006E12E0 /* LoginView.swift */; };
 		27CA22542AFDE9B8006E12E0 /* RegistrationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27CA22532AFDE9B8006E12E0 /* RegistrationView.swift */; };
 		27CA22572AFDEB38006E12E0 /* ThreadsTextFieldModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27CA22562AFDEB38006E12E0 /* ThreadsTextFieldModifier.swift */; };
@@ -21,6 +23,7 @@
 		27CA22692AFE095E006E12E0 /* CreateThreadView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27CA22682AFE095E006E12E0 /* CreateThreadView.swift */; };
 		27CA226B2AFE098A006E12E0 /* ActivityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27CA226A2AFE098A006E12E0 /* ActivityView.swift */; };
 		27CA22712AFE09BD006E12E0 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27CA22702AFE09BD006E12E0 /* ProfileView.swift */; };
+>>>>>>> 87b3eb0 (Initial Commit)
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +32,8 @@
 		27CA223C2AFDE1B0006E12E0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		27CA223E2AFDE1B2006E12E0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		27CA22412AFDE1B2006E12E0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+<<<<<<< HEAD
+=======
 		27CA22512AFDE52D006E12E0 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
 		27CA22532AFDE9B8006E12E0 /* RegistrationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistrationView.swift; sourceTree = "<group>"; };
 		27CA22562AFDEB38006E12E0 /* ThreadsTextFieldModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreadsTextFieldModifier.swift; sourceTree = "<group>"; };
@@ -39,6 +44,7 @@
 		27CA22682AFE095E006E12E0 /* CreateThreadView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateThreadView.swift; sourceTree = "<group>"; };
 		27CA226A2AFE098A006E12E0 /* ActivityView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityView.swift; sourceTree = "<group>"; };
 		27CA22702AFE09BD006E12E0 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+>>>>>>> 87b3eb0 (Initial Commit)
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,12 +77,17 @@
 		27CA22392AFDE1B0006E12E0 /* ThreadClone */ = {
 			isa = PBXGroup;
 			children = (
+<<<<<<< HEAD
+				27CA223A2AFDE1B0006E12E0 /* ThreadCloneApp.swift */,
+				27CA223C2AFDE1B0006E12E0 /* ContentView.swift */,
+=======
 				27CA22482AFDE40C006E12E0 /* App */,
 				27CA22492AFDE410006E12E0 /* Core */,
 				27CA224A2AFDE41B006E12E0 /* Extensions */,
 				27CA224B2AFDE423006E12E0 /* Model */,
 				27CA224C2AFDE42A006E12E0 /* Services */,
 				27CA224D2AFDE432006E12E0 /* Utils */,
+>>>>>>> 87b3eb0 (Initial Commit)
 				27CA223E2AFDE1B2006E12E0 /* Assets.xcassets */,
 				27CA22402AFDE1B2006E12E0 /* Preview Content */,
 			);
@@ -91,6 +102,8 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
+<<<<<<< HEAD
+=======
 		27CA22482AFDE40C006E12E0 /* App */ = {
 			isa = PBXGroup;
 			children = (
@@ -273,6 +286,7 @@
 			path = View;
 			sourceTree = "<group>";
 		};
+>>>>>>> 87b3eb0 (Initial Commit)
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -343,6 +357,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+<<<<<<< HEAD
+				27CA223D2AFDE1B0006E12E0 /* ContentView.swift in Sources */,
+				27CA223B2AFDE1B0006E12E0 /* ThreadCloneApp.swift in Sources */,
+=======
 				27CA22692AFE095E006E12E0 /* CreateThreadView.swift in Sources */,
 				27CA22612AFE08E3006E12E0 /* FeedView.swift in Sources */,
 				27CA22652AFE092A006E12E0 /* ExploreView.swift in Sources */,
@@ -355,6 +373,7 @@
 				27CA223B2AFDE1B0006E12E0 /* ThreadCloneApp.swift in Sources */,
 				27CA226B2AFE098A006E12E0 /* ActivityView.swift in Sources */,
 				27CA22542AFDE9B8006E12E0 /* RegistrationView.swift in Sources */,
+>>>>>>> 87b3eb0 (Initial Commit)
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
